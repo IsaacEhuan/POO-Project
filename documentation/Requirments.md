@@ -1,4 +1,4 @@
-# Requerimientos 
+# Requerimientos.
 ## Requerimentos de usuario:
 Usuario: Persona la cual solicita los datos al sistema.
 -El usuario podrá realizar la busqueda de su anime. 
