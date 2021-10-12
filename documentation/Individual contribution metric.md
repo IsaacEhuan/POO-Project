@@ -3,7 +3,7 @@ This document shows what are the different characteristics that were considered 
 * Repository creation: 1 point.
 * Requirements definition: 2 points.
 * Project objective definition: 2 points.
-* Redacción del proceso de desarrollo: 2 points.
+* Work process redaction: 2 points.
 * Redacción de historias de usuario: 2 points.
 * Redacción de casos de uso: 2 points.
 * Elaboración de diagrama de casos de uso: 3 points.
