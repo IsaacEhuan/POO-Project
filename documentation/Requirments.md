@@ -12,35 +12,35 @@ Admin user: Person who has acces to modify the database.
 
 |RF001|Búsqueda de animes|
 |---|---|
-|Prioridad:|Alta|
+|Prioridad:|High|
 |Descripción|El sistema permite al usuario la búsqueda de animes, ya sea por el nombre del anime, género y por el personaje |
 |Entradas| Busqueda categoría // Cadena caracteres |  
 |Salidas| Resultado de la búsqueda.|
 
 |RF002|Reconocimiento de Usuarios|
 |---|---|
-|Prioridad|Alta|
+|Prioridad|High|
 |Descripción| El sistema permite crear una cuenta e ingresar mediante ella desde cualquier dispositivo en la red mediante un nombre de usuario y una contraseña elegidos, dicha cuenta servirá para que el usuario haga uso de la API|
 |Entradas| "Usuario", "Correo/Facebook", "Password"|
 |Salidas| "ID de Usuario"|
 
 |RF004|Add content|
 |---|---|
-|Prioridad|Alta|
+|Prioridad|High|
 |Descripción| Mediante una cuenta de tipo administrador se le permite al usuario agregar a la base de datos nuevos animes con todas las características que este posea|
 |Entradas|"Title","Author","Gender","Chapters","Premiere date","Characters","Status","Duration","Language","Summary","Target audience"|
 |Salidas| "Contenido actualizado"|
 
 |RF005|Update content|
 |---|---|
-|Prioridad|Alta|
+|Prioridad|High|
 |Descripción| Mediante una cuenta de tipo administrador se le permite al usuario actualizar la base de datos, podiendo este cambiar u agregar información a ciertos animes para que cuando un usuario clásico realice la busqueda de algún anime, se le presente la información mas adecuada y especifica|
 |Entradas|"Title","Author","Gender","Chapters","Premiere date","Characters","Status","Duration","Language","Summary","Target audience"|
 |Salidas| "Contenido actualizado"|
 
 |RF006|Remove content|
 |---|---|
-|Prioridad|Alta|
+|Prioridad|High|
 |Descripción| Mediante una cuenta de tipo administrador se le permite al usuario borrar parte de la información guardada en la base de datos|
 |Entradas|"Title","Author","Gender","Chapters","Premiere date","Characters","Status","Duration","Language","Summary","Target audience"|
 |Salidas| "Contenido actualizado"|
