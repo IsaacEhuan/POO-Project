@@ -22,7 +22,7 @@ Microsoft Visual Studio is an Integrated Development Environment (IDE) for Windo
 This tool will help us to develop and edit a large part of the code for the creation, both of the API with the system which will use information from the API.
 
 ***
-### Communication, planning and monitoring processes: 
+## Communication, planning and monitoring processes: 
 
 ### GitHub.
 It is a project management and code version control system, as well as a social network platform designed for developers.
