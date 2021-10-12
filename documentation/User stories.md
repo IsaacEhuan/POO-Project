@@ -1,15 +1,15 @@
 # User stories.
 
-**HU01**-*Acceder y salir del sistema*
+**US01**-*Access and exit the system*
 
-Como: Cliente  Quiero: Tener acceso al sistema Para: Poder buscar/consultar sobre algun anime de mi interes
+As: Client  I Want: Have access to the system For: To be able to search / consult about an anime of my interest
 
-##### Condiciones
-- El sistema debe permitir al usuario crear una cuenta mediante un correo o cuenta de facebook
-- El sistema debe permitir al usuario agregar un nombre de usuario
-- El sistema debe permitir al usuario agregar una contraseña de su elección
-- El sistema debe permitir al usuario iniciar sesión en cualquier momento
-- El sistema debe permitir al usuario cerrar sesión en cualquier momento 
+##### Conditions
+- The system must allow the customer to create an account through an email or a Facebook account
+- The system must allow the customer to add a username
+- The system must allow the customer to add a password of their choice
+- The system must allow the user to log in at any time
+- The system must allow the user to log out at any time 
 
 
 **HU02**-*Busqueda de Información*
