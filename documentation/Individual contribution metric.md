@@ -19,7 +19,7 @@ This document shows what are the different characteristics that were considered 
 ## Individual Contribution Metric Table
 |Nombre |Puntuación |
 |--- |--- |
-|Ehuan Avila Isaac Mauricio | 12 |
+|Ehuan Avila Isaac Mauricio | 14 |
 |Fernández Mena Ariel Jesús | 14 |
 |Gamboa Campos Wilberth Manuel | 13 |
 |Gómez Gómez Horacio Jahir | 15 |
