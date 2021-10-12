@@ -2,7 +2,7 @@
 
 **US01**-*Access and exit the system.*
 
-As: A client  I Want to: Have access to the system To: Be able to search / consult about an anime of my interest.
+As: A client/user I Want to: Have access to the system To: Be able to search / consult about an anime of my interest.
 
 ##### Conditions:
 - The system must allow the customer to create an account through an email or a Facebook account.
