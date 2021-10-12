@@ -1,4 +1,4 @@
-# Casos de uso
+# Casos de uso.
 
 |Funcionalidad |Actor que realiza la acción |Descripción |
 |---|---|---|
@@ -53,6 +53,7 @@
  |2 | Si los cambios realizados no son guardados |
  ||E.1 El sistema no refleja los cambios realizados e ignora todo lo que se haya agregado, modificado o quitado de la base de datos | 
 |Comentarios | Los usuarios administradores son los unicos con los permisos necesarios para actualizar la información contenida en la base de datos |
+
 
 ## Diagrama de casos de uso
 [![Casos-de-uso-2.png](https://i.postimg.cc/GtrkKQds/Casos-de-uso-2.png)](https://postimg.cc/R6s6Vw3M)
