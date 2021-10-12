@@ -1,4 +1,4 @@
-# Historias de Usuario.
+# User stories.
 
 **HU01**-*Acceder y salir del sistema*
 
