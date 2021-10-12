@@ -24,35 +24,35 @@
 
 |CU02 |1.0 |
 |---|---|
-|Dependencias |-Realizar consulta -Recibir datos sobre algún anime |
-|Precondición |El usuario ha creado una cuenta o a iniciado sesión |
-|Descripción|El sistema deberá comportarse como se describe en el siguiente caso de uso cuando el usuario de la API solicité al sistema datos sobre algún anime en especifico |
-|Paso |Acción |
+|Dependencies |-Realizar consulta -Recibir datos sobre algún anime |
+|Precondition |El usuario ha creado una cuenta o a iniciado sesión |
+|Description|El sistema deberá comportarse como se describe en el siguiente caso de uso cuando el usuario de la API solicité al sistema datos sobre algún anime en especifico |
+|Steps |Action |
 |1 |El usuario accede a la interfaz/pantalla principal para comenzar el proceso de búsqueda de un anime |
 |2 | El usuario ingresa una cadena de caracteres/enunciados con las características específicas del anime que desea buscar|
 |3 | El usuario ingresa una cadena de caracteres/enunciados con las características específicas del anime que desea buscar |
 |4 |La API devuelve toda la información encontrada |
-|Postcondición |El usuario recibe toda la información acerca del anime buscado |
-|Excepciones - Paso |Acción |
+|Postcondition |El usuario recibe toda la información acerca del anime buscado |
+|Exceptions - Step |Action |
  |2 |Si el usuario en lugar de agregar una cadena de caracteres ingresa datos numéricos |
  ||E.1 El sistema informa de la problemática que impide realizar la búsqueda | 
  ||E.2  Se reinicia el buscador |
-|Comentarios |El número máximo de búsquedas de anime es ilimitado, siempre que el usuario desee conocer todo acerca de algún anime podrá realizar una búsqueda en la API. |
+|Comments |El número máximo de búsquedas de anime es ilimitado, siempre que el usuario desee conocer todo acerca de algún anime podrá realizar una búsqueda en la API. |
 
 |CU03 | 1.0 |
 |---|---|
-|Dependencias |Actualización de contenido |
-|Precondición |Para tener acceso a la funcionalidad de poder modificar la información contenida en la base de datos, se deberá haber realizado un previo inicio de sesión con cuenta de administrador |
-|Descripción|Mediante esta funcionalidad, se podrá tener autorización para la modificación de la base de datos, es decir, crear, actualizar o borrar uno o más animes |
-|Paso |Acción |
+|Dependencies |Actualización de contenido |
+|Precondition |Para tener acceso a la funcionalidad de poder modificar la información contenida en la base de datos, se deberá haber realizado un previo inicio de sesión con cuenta de administrador |
+|Description |Mediante esta funcionalidad, se podrá tener autorización para la modificación de la base de datos, es decir, crear, actualizar o borrar uno o más animes |
+|Steps |Action |
 |1 |Ingresar a la base de datos |
 |2 | Elegir la acción a realizar, ejecutarla y guardar los cambios realizados |
 |3 | Salir de la base de datos |
-|Postcondición |La base de datos refleja las modificaciones hechas |
-|Excepciones - Paso |Acción |
+|Postcondition |La base de datos refleja las modificaciones hechas |
+|Exceptions- Step |Action |
  |2 | Si los cambios realizados no son guardados |
  ||E.1 El sistema no refleja los cambios realizados e ignora todo lo que se haya agregado, modificado o quitado de la base de datos | 
-|Comentarios | Los usuarios administradores son los unicos con los permisos necesarios para actualizar la información contenida en la base de datos |
+|Comments | Los usuarios administradores son los unicos con los permisos necesarios para actualizar la información contenida en la base de datos |
 
 
 ## Diagrama de casos de uso
