@@ -7,7 +7,7 @@
   - Gómez Gómez Horacio Jahir.
   
 # Purpose and Objective:
-Crear un sistema el cual ayude a las personas a identificar un anime dependiendo de ciertas características además poder encontraranimes que tengan cierta relación con este. El propósito personal del equipo es tener nuestro primer acercamiento a tecnologías que se relacionan con las API's.
+Create a system which helps people to identify an anime according to certain characteristics in addition to being able to find others anime that they have a certain relationship with it. The personal purpose of the team is to have our first approach to technologies that are related to API's.
 
 # Targeted Public:
-Este proyecto va dirigido al público en general, sin embargo, se espera que los fanaticos del anime sean los que más interactúen con el proyecto.
+This project is aimed at the general public, however, anime fans are expected to interact the most with the project.
