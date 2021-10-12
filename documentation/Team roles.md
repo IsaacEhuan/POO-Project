@@ -4,7 +4,7 @@ La metodología a usar para nuestro proyecto será enfocado a scrum, puesto que,
 # Roles:
 The roles for each member were assigned as shown below in the following table::
 
-|Team member | role |
+|Team member | Role |
 |--- |--- |
 |Ehuan Avila Isaac Mauricio |Product Owner/Development team|
 |Fernández Mena Ariel Jesús |Development team|
