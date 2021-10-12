@@ -1,4 +1,4 @@
-# Casos de uso.
+# Use case.
 
 |Funcionalidad |Actor que realiza la acción |Descripción |
 |---|---|---|
