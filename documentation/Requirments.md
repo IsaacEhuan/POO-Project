@@ -62,4 +62,4 @@ Admin user: Person who has acces to modify the database.
 
 |NFR004|Access to the system|
 |---|---|
-|Description|The system must allow the users to successfully access the platform in 99% of the times that they try to enter to the service|
+|Description|The system must allow the users to successfully access the platform in 99% of the times that they try to enter to the service.|
