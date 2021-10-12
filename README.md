@@ -1,4 +1,4 @@
-# POO-Project
+# POO-Project.
 
 # Team Members:
   - Ehuan Avila Isaac Mauricio.
