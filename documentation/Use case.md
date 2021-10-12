@@ -22,24 +22,23 @@
  ||E.2 The data entered is deleted and the user is asked to retype his data  |
 |Comments |The maximum number of attempts to login is 5, after the fifth attempt the system does not allow the user to enter their data if it is not until 1 hour later|
 
-|CU02 |1.0 |
+|UC02 |1.0 |
 |---|---|
-|Dependencies |-Realizar consulta -Recibir datos sobre algún anime |
-|Precondition |El usuario ha creado una cuenta o a iniciado sesión |
-|Description|El sistema deberá comportarse como se describe en el siguiente caso de uso cuando el usuario de la API solicité al sistema datos sobre algún anime en especifico |
+|Dependencies |-Make an consultation -Get data about an anime |
+|Precondition |User has created an account or login |
+|Description|The system should behave as described in the following use case when the API user requests data about a specific anime from the system |
 |Steps |Action |
-|1 |El usuario accede a la interfaz/pantalla principal para comenzar el proceso de búsqueda de un anime |
-|2 | El usuario ingresa una cadena de caracteres/enunciados con las características específicas del anime que desea buscar|
-|3 | El usuario ingresa una cadena de caracteres/enunciados con las características específicas del anime que desea buscar |
-|4 |La API devuelve toda la información encontrada |
-|Postcondition |El usuario recibe toda la información acerca del anime buscado |
+|1 |The user accesses the main interface/screen to start the search process for an anime |
+|2 | The user enters a string of characters/sentences with the specific characteristics of the anime they want to search |
+|3 |The API returns all the information found |
+|Postcondition |The user receives all the information about the anime he has searched for |
 |Exceptions - Step |Action |
- |2 |Si el usuario en lugar de agregar una cadena de caracteres ingresa datos numéricos |
- ||E.1 El sistema informa de la problemática que impide realizar la búsqueda | 
- ||E.2  Se reinicia el buscador |
-|Comments |El número máximo de búsquedas de anime es ilimitado, siempre que el usuario desee conocer todo acerca de algún anime podrá realizar una búsqueda en la API. |
+ |2 |If the user instead of adding a character string enters numeric data |
+ ||E.1 The system reports the problem that prevents the search | 
+ ||E.2 Search restarts |
+|Comments |The maximum number of anime searches is unlimited, as long as the user wants to know everything about an anime, he can perform a search in the API |
 
-|CU03 | 1.0 |
+|UC03 | 1.0 |
 |---|---|
 |Dependencies |Actualización de contenido |
 |Precondition |Para tener acceso a la funcionalidad de poder modificar la información contenida en la base de datos, se deberá haber realizado un previo inicio de sesión con cuenta de administrador |
@@ -55,5 +54,5 @@
 |Comments | Los usuarios administradores son los unicos con los permisos necesarios para actualizar la información contenida en la base de datos |
 
 
-## Diagrama de casos de uso
+## Use case diagram
 [![Casos-de-uso-2.png](https://i.postimg.cc/GtrkKQds/Casos-de-uso-2.png)](https://postimg.cc/R6s6Vw3M)
