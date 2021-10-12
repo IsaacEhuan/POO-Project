@@ -6,21 +6,21 @@
 |Make an consultation |User |Through keyboard input, the user enters characters that refer to the particular characteristics that interest him or that, failing that, he knows about the anime he wants to search for |
 |Database Administration | User Administrator | It allows people admitted with an administrator account to make modifications to the database, these modifications can be classified into: update, add and delete content |
 
-|CU01 | 1.0 |
+|UC01 | 1.0 |
 |---|---|
-|Dependencias |-Registrar nuevos usuarios -Iniciar sesión -Cerrar sesión |
-|Precondición |Tener cuenta de correo(gmail) o una cuenta de Facebook|
-|Descripción|El sistema permite al usuario crear una cuenta, iniciar sesión y cerrar sesión|
-|Paso |Acción |
+|Dependencies |-Register new users -Login -Logout |
+|Precondition |Have an email account (gmail) or a Facebook account|
+|Description|The system allows the user to create an account, login and logout |
+|Steps |Action |
 |1 |El usuario selecciona con que desea realizar el registro, ya sea Facebook o una cuenta de correo(gmail) |
 |2 | Una vez registrado, el usuario debe iniciar sesión con la opción seleccionada|
 |3 | Una vez finalizado el usuario puede cerrar la sesión de su cuenta |
-|Postcondición |El usuario tendra acceso al sistema |
-|Excepciones - Paso |Acción |
+|Postcondition |El usuario tendra acceso al sistema |
+|Exceptions- Step |Action |
  |2 |Si el usuario ingresa datos incorrectos de su cuenta o intenta iniciar sesión con una cuenta no registrada |
  ||E.1 El sistema informa de la problemática que impide iniciar sesión | 
  ||E.2 Se borran los datos ingresados y se le pide al usuario digitar de nuevo sus datos  |
-|Comentarios |El número máximo de intentos para iniciar sesión es de 5, despues del quinto intento el sistema no le permite al usuario ingresar sus datos|
+|Comments |El número máximo de intentos para iniciar sesión es de 5, despues del quinto intento el sistema no le permite al usuario ingresar sus datos|
 
 |CU02 |1.0 |
 |---|---|
