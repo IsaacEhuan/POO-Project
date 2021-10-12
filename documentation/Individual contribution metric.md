@@ -7,7 +7,7 @@ This document shows what are the different characteristics that were considered 
 * User stories writing: 2 points.
 * Use case writing: 2 points.
 * Development of use case diagram: 3 points.
-* Elaboración de diagrama de clases: 3 points.
+* Development of class diagram: 3 points.
 * Redacción de bitácora: 2 points.
 * Calendarización: 2 points.
 * Correcciones ortográficas 1 points.
