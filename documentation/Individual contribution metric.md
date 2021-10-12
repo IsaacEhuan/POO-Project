@@ -14,8 +14,8 @@ This document shows what are the different characteristics that were considered 
 * Orthographic corrections: 1 points.
 * Translation: 2 points.
 * Team roles definition: 1 point.
-* Definición del proceso de trabajo: 2 points.
-* Realización y análisis de las métricas de contribución individual: 1 point.
+* Definition of work process: 2 points.
+* Realization and analysis of individual contribution metrics: 1 point.
 
 ## Individual Contribution Metric Table:
 |Team member |Score |
@@ -24,4 +24,3 @@ This document shows what are the different characteristics that were considered 
 |Fernández Mena Ariel Jesús | 14 |
 |Gamboa Campos Wilberth Manuel | 13 |
 |Gómez Gómez Horacio Jahir | 15 |
-
