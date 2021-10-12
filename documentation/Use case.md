@@ -1,10 +1,10 @@
 # Use case.
 
-|Funcionalidad |Actor que realiza la acción |Descripción |
+|Functionality |Actor who executes the action |Description |
 |---|---|---|
-|Administración de autenticación |Usuario | Administra el registro de nuevos usuarios, los inicios de sesiones, así como el cierre de sesión del usuario. |
-|Realizar consulta |Usuario |Mediante la entrada por teclado, el usuario ingresa caracteres que hacen referencia a las características particulares que a éste le interesan o que, en su defecto, conozca del anime que desea buscar. |
-|Administración de la base de datos |Administrador | Permite a las personas admitidas con cuenta de administrador, realizar modificaciones a la base de datos, dichas modificaciones se pueden clasificar en: actualizar, agregar y eliminar contenido. |
+|Administration of Authentication |User |Manage new user registration, user logins and logouts |
+|Make an consultation |User |Through keyboard input, the user enters characters that refer to the particular characteristics that interest him or that, failing that, he knows about the anime he wants to search for |
+|Database Administration | User Administrator | It allows people admitted with an administrator account to make modifications to the database, these modifications can be classified into: update, add and delete content |
 
 |CU01 | 1.0 |
 |---|---|
