@@ -4,7 +4,9 @@ La metodología a usar para nuestro proyecto será enfocado a scrum, puesto que,
 # Roles:
 The roles for each member were assigned as shown below in the following table::
 
-- Isaac Ehuan: Product Owner/Development team.
-- Ariel Fernández: Development team.
-- Wilberth Gamboa: Development team.
-- Jahir Gomez: Scrum Master/Development team.
+|Team member | role |
+|--- |--- |
+|Ehuan Avila Isaac Mauricio |Product Owner/Development team|
+|Fernández Mena Ariel Jesús |Development team|
+|Gamboa Cmpos Wilberth Manuel |Development team|
+|Gómez Gómez Horacio Jahir |Scrum Master/Development team|
