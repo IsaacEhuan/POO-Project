@@ -20,7 +20,7 @@ This document shows what are the different characteristics that were considered 
 ## Individual Contribution Metric Table:
 |Team member |Score |
 |--- |--- |
-|Ehuan Avila Isaac Mauricio | 14 |
-|Fernández Mena Ariel Jesús | 14 |
+|Ehuan Avila Isaac Mauricio | 13 |
+|Fernández Mena Ariel Jesús | 15 |
 |Gamboa Campos Wilberth Manuel | 13 |
 |Gómez Gómez Horacio Jahir | 15 |
