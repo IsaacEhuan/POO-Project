@@ -2,7 +2,7 @@
 ## User requirments:
 User: Person who requests the data from the system or database.
 - The user will be able to search for his anime. 
-## Requerimientos de usuario adminstrador:
+## Admin user requirments:
 Admin user: Person who has acces to modify the database.
 - Admin user will be able to add update or delete any existing anime record.
 
@@ -24,21 +24,21 @@ Admin user: Person who has acces to modify the database.
 |Entradas| "Usuario", "Correo/Facebook", "Password"|
 |Salidas| "ID de Usuario"|
 
-|RF004|Agregar contenido|
+|RF004|Add content|
 |---|---|
 |Prioridad|Alta|
 |Descripción| Mediante una cuenta de tipo administrador se le permite al usuario agregar a la base de datos nuevos animes con todas las características que este posea|
 |Entradas|"Title","Author","Gender","Chapters","Premiere date","Characters","Status","Duration","Language","Summary","Target audience"|
 |Salidas| "Contenido actualizado"|
 
-|RF005|Actualizar contenido|
+|RF005|Update content|
 |---|---|
 |Prioridad|Alta|
 |Descripción| Mediante una cuenta de tipo administrador se le permite al usuario actualizar la base de datos, podiendo este cambiar u agregar información a ciertos animes para que cuando un usuario clásico realice la busqueda de algún anime, se le presente la información mas adecuada y especifica|
 |Entradas|"Title","Author","Gender","Chapters","Premiere date","Characters","Status","Duration","Language","Summary","Target audience"|
 |Salidas| "Contenido actualizado"|
 
-|RF006|Borrar contenido|
+|RF006|Remove content|
 |---|---|
 |Prioridad|Alta|
 |Descripción| Mediante una cuenta de tipo administrador se le permite al usuario borrar parte de la información guardada en la base de datos|
@@ -56,7 +56,7 @@ Admin user: Person who has acces to modify the database.
 |---|---|
 |Descripción|El sistema guardará las busquedas realizadas por el usuario mientras este permanezca logueado|
 
-|RNF003|Seguridad|
+|RNF003|Security|
 |---|---|
 |Descripción|El sistema deberá ser capaz de resistir ataques de denegación del servicio que intenten saturar los servidores que utiliza el software para su funcionamiento|
 
