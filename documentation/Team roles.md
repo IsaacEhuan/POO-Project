@@ -8,5 +8,5 @@ The roles for each member were assigned as shown below in the following table:
 |--- |--- |
 |Ehuan Avila Isaac Mauricio |Product Owner/Development team|
 |Fernández Mena Ariel Jesús |Development team|
-|Gamboa Cmpos Wilberth Manuel |Development team|
+|Gamboa Campos Wilberth Manuel |Development team|
 |Gómez Gómez Horacio Jahir |Scrum Master/Development team|
