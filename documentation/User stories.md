@@ -2,7 +2,7 @@
 
 **US01**-*Access and exit the system*
 
-As: Client  I Want: Have access to the system For: To be able to search / consult about an anime of my interest
+As: A client  I Want: To have access to the system To: Be able to search / consult about an anime of my interest
 
 ##### Conditions
 - The system must allow the customer to create an account through an email or a Facebook account
@@ -12,13 +12,13 @@ As: Client  I Want: Have access to the system For: To be able to search / consul
 - The system must allow the user to log out at any time 
 
 
-**HU02**-*Busqueda de Información*
+**US02**-*Information search*
 
-Como: Usuario Quiero:Buscar el anime de mi preferencia Para: Poder hacer uso de él o simplemente conocer más sobre este
+As: A user I want:Search an anime of my preference To: Be able to use it or simply learn more about it
 
-##### Condiciones
-- El sistema debe permitir al usuario realizar la busqueda de algún anime con alguna caracteristica que la distinga de otros anime
-- El sistema debe permitir al usuario visualizar la información encontrada
+##### Conditions
+- The system must allow the user to search for an anime with some characteristic that differentiates it from other anime
+- The system must allow the user to see the information found
 
 
 **HU03**- *Añadir información*
