@@ -2,7 +2,7 @@
 This document shows what are the different characteristics that were considered to calculate and measure the percentage of individual contributions of every single member of the project team.
 * Repository creation: 1 point.
 * Requirements definition: 2 points.
-* project objective definition: 2 points.
+* Project objective definition: 2 points.
 * Redacción del proceso de desarrollo: 2 points.
 * Redacción de historias de usuario: 2 points.
 * Redacción de casos de uso: 2 points.
