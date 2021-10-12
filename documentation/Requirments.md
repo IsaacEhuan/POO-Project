@@ -1,7 +1,7 @@
 # Requirments.
 ## User requirments:
-User: Persona la cual solicita los datos al sistema.
-- El usuario podrá realizar la busqueda de su anime. 
+User: Person who requests the data from the system or database.
+- The user will be able to search for his anime. 
 ## Requerimientos de usuario adminstrador:
 Usuario Administrador: Persona la cual tiene acceso a modificar la base de datos.
 - El usuario administrador podrá agregar actualizar o eliminar cualquier registro de anime existente.
