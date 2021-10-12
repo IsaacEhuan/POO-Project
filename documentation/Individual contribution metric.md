@@ -1,8 +1,8 @@
 # Individual Contribution Metric:
 This document shows what are the different characteristics that were considered to calculate and measure the percentage of individual contributions of every single member of the project team.
-* Creación del repositorio: 1 punto.
-* Definición de los requerimientos: 2 puntos.
-* Definición del objetivo del proyecto: 2 puntos.
+* Repository creation: 1 point.
+* Requirements definition: 2 points.
+* project objective definition: 2 points.
 * Redacción del proceso de desarrollo: 2 puntos.
 * Redacción de historias de usuario: 2 puntos.
 * Redacción de casos de uso: 2 puntos.
