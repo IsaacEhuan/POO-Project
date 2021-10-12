@@ -3,10 +3,10 @@
 User: Person who requests the data from the system or database.
 - The user will be able to search for his anime. 
 ## Requerimientos de usuario adminstrador:
-Usuario Administrador: Persona la cual tiene acceso a modificar la base de datos.
-- El usuario administrador podrá agregar actualizar o eliminar cualquier registro de anime existente.
+Admin user: Person who has acces to modify the database.
+- Admin user will be able to add update or delete any existing anime record.
 
-## Requerimentos del sistema:
+## System requirments:
 
 **Funcionales**
 
