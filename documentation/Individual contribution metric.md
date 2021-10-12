@@ -1,5 +1,5 @@
 # Individual Contribution Metric:
-El presente documento muestra cuáles son las diferentes características que se tomaron en cuenta para medir el porcentaje de contribución individual de cada integrante del equipo de proyecto.
+This document shows what are the different characteristics that were considered to calculate and measure the percentage of individual contributions of every single member of the project team.
 * Creación del repositorio: 1 punto.
 * Definición de los requerimientos: 2 puntos.
 * Definición del objetivo del proyecto: 2 puntos.
