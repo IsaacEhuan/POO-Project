@@ -30,16 +30,16 @@ As: An administrator user I want to: Add a new anime To: Be able to offer users 
 - The system must allow the administrator user to save the changes made
 
 
-**US04**- *Modify existing information*
+**US04**- *Modify information*
 
-Como: Usuario administrador Quiero: Modificar un anime ya existente Para: Poder ofrecer información más detallada y acertada
+As: An administrator user I want to: Modify an existing anime To: Be able to offer more detailed and accurate information
 
-##### Condiciones
-- El sistema debe permitir al usuario administrador realizar la modificación de algun anime que ya se encuentre en la base de datos, de manera que pueda agregar información o cambiarla a su parecer 
+##### Conditions
+- The system must allow the administrator user to modify an anime that is already in the database; admin user can add new information or change it 
 - The system must allow the administrator user to save the changes made
 
 
-**HU05**- *Borrar información*
+**US05**- *Delete information*
 
 Como: Usuario administrador Quiero: Borrar información de un anime Para: Poder eliminar datos erroneos y poder ingresar datos nuevos 
 
