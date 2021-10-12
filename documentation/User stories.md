@@ -2,7 +2,7 @@
 
 **US01**-*Access and exit the system*
 
-As: A client  I Want: To have access to the system To: Be able to search / consult about an anime of my interest
+As: A client  I Want to: Have access to the system To: Be able to search / consult about an anime of my interest
 
 ##### Conditions
 - The system must allow the customer to create an account through an email or a Facebook account
@@ -14,29 +14,29 @@ As: A client  I Want: To have access to the system To: Be able to search / consu
 
 **US02**-*Information search*
 
-As: A user I want:Search an anime of my preference To: Be able to use it or simply learn more about it
+As: A user I want to:Search an anime of my preference To: Be able to use it or simply learn more about it
 
 ##### Conditions
 - The system must allow the user to search for an anime with some characteristic that differentiates it from other anime
 - The system must allow the user to see the information found
 
 
-**HU03**- *Añadir información*
+**US03**- *Add information*
 
-Como: Usuario administrador Quiero:Agregar un nuevo anime Para: Poder ofrecer a los usuarios una mayor cantidad de animes
+As: An administrator user I want to: Add a new anime To: Be able to offer users a greater number of animes
 
-##### Condiciones
-- El sistema debe permitir al usuario administrador añadir algún anime que aún no se encuentre en la base de datos
-- El sistema debe permitir al usuario administrador guardar los cambios realizados
+##### Conditions
+- The system must allow the administrator user to add some anime that is not yet in the database
+- The system must allow the administrator user to save the changes made
 
 
-**HU04**- *Modificar información ya existente*
+**US04**- *Modify existing information*
 
 Como: Usuario administrador Quiero: Modificar un anime ya existente Para: Poder ofrecer información más detallada y acertada
 
 ##### Condiciones
 - El sistema debe permitir al usuario administrador realizar la modificación de algun anime que ya se encuentre en la base de datos, de manera que pueda agregar información o cambiarla a su parecer 
-- El sistema debe permitir al usuario administrador guardar los cambios
+- The system must allow the administrator user to save the changes made
 
 
 **HU05**- *Borrar información*
@@ -45,4 +45,4 @@ Como: Usuario administrador Quiero: Borrar información de un anime Para: Poder 
 
 ##### Condiciones
 - El sistema debe permitir al usuario administrador eliminar la información de algun anime 
-- El sistema debe permitir al usuario administrador guardar los cambios
+- The system must allow the administrator user to save the changes made
