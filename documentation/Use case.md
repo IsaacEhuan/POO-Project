@@ -2,7 +2,7 @@
 
 |Functionality |Actor who executes the action |Description |
 |---|---|---|
-|Administration of Authentication |User |Manage new user registration, user logins and logouts |
+|Administration of Authentication |Customer/User |Manage new user registration, user logins and logouts |
 |Make an consultation |User |Through keyboard input, the user enters characters that refer to the particular characteristics that interest him or that, failing that, he knows about the anime he wants to search for |
 |Database Administration | User Administrator | It allows people admitted with an administrator account to make modifications to the database, these modifications can be classified into: update, add and delete content |
 
