@@ -1,5 +1,5 @@
 # Methodology.
-La metodología a usar para nuestro proyecto será enfocado a scrum, puesto que, esta metodología ágil nos proporciona diversas herramientas que nos ayudarán a tener una mejor organización sobre el proyecto, permitiendo cumplir en tiempo y forma la gran parte de tareas a realizar y cumpliendo los requerimientos establecidos.
+The methodology that will be used for this project is focused on SCRUM model, since this agile methodology provides many tools to the developer team, those tools will contribte to a best organization on the project, helping in this way to the compliance of the mayority of tasks to do and the stablishied requirments.
 
 # Roles:
 The roles for each member were assigned as shown below in the following table:
