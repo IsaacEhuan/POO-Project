@@ -1,4 +1,4 @@
-# Individual Contribution Metric:
+# Individual Contribution Metric.
 This document shows what are the different characteristics that were considered to calculate and measure the percentage of individual contributions of every single member of the project team.
 * Repository creation: 1 point.
 * Requirements definition: 2 points.
