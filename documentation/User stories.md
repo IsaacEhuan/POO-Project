@@ -41,8 +41,8 @@ As: An administrator user I want to: Modify an existing anime To: Be able to off
 
 **US05**- *Delete information*
 
-Como: Usuario administrador Quiero: Borrar información de un anime Para: Poder eliminar datos erroneos y poder ingresar datos nuevos 
+As: An administrator user I want to: Delete information from some anime To: Be able to eliminate erroneous data and to be able to enter new data
 
-##### Condiciones
+##### Conditions
 - El sistema debe permitir al usuario administrador eliminar la información de algun anime 
 - The system must allow the administrator user to save the changes made
