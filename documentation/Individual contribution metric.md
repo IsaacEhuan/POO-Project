@@ -8,9 +8,9 @@ This document shows what are the different characteristics that were considered 
 * User case writing: 2 points.
 * Development of use case diagram: 3 points.
 * Development of class diagram: 3 points.
-* Redacción de bitácora: 2 points.
-* Calendarización: 2 points.
-* Correcciones ortográficas 1 points.
+* Binnacle writing: 2 points.
+* Scheduling: 2 points.
+* Orthographic corrections: 1 points.
 * Traducción a Inglés: 2 points.
 * Definición de los roles de equipo: 1 point.
 * Definición del proceso de trabajo: 2 points.
