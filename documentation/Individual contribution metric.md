@@ -16,7 +16,7 @@ This document shows what are the different characteristics that were considered 
 * Definición del proceso de trabajo: 2 points.
 * Realización y análisis de las métricas de contribución individual: 1 point.
 
-## Individual Contribution Metric Table
+## Individual Contribution Metric Table:
 |Team member |Score |
 |--- |--- |
 |Ehuan Avila Isaac Mauricio | 14 |
