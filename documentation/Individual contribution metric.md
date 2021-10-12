@@ -17,7 +17,7 @@ This document shows what are the different characteristics that were considered 
 * Realización y análisis de las métricas de contribución individual: 1 point.
 
 ## Individual Contribution Metric Table
-|Nombre |Puntuación |
+|Team member |Score |
 |--- |--- |
 |Ehuan Avila Isaac Mauricio | 14 |
 |Fernández Mena Ariel Jesús | 14 |
