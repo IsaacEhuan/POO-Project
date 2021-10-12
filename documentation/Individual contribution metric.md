@@ -11,8 +11,8 @@ This document shows what are the different characteristics that were considered 
 * Binnacle writing: 2 points.
 * Scheduling: 2 points.
 * Orthographic corrections: 1 points.
-* Traducción a Inglés: 2 points.
-* Definición de los roles de equipo: 1 point.
+* Translation: 2 points.
+* Team roles definition: 1 point.
 * Definición del proceso de trabajo: 2 points.
 * Realización y análisis de las métricas de contribución individual: 1 point.
 
