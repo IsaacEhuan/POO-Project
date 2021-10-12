@@ -24,21 +24,21 @@ Admin user: Person who has acces to modify the database.
 |Entradas| "Usuario", "Correo/Facebook", "Password"|
 |Salidas| "ID de Usuario"|
 
-|FR004|Add content|
+|FR003|Add content|
 |---|---|
 |Prioridad|High|
 |Descripción| Mediante una cuenta de tipo administrador se le permite al usuario agregar a la base de datos nuevos animes con todas las características que este posea|
 |Entradas|"Title","Author","Gender","Chapters","Premiere date","Characters","Status","Duration","Language","Summary","Target audience"|
 |Salidas| "Contenido actualizado"|
 
-|FR005|Update content|
+|FR004|Update content|
 |---|---|
 |Prioridad|High|
 |Descripción| Mediante una cuenta de tipo administrador se le permite al usuario actualizar la base de datos, podiendo este cambiar u agregar información a ciertos animes para que cuando un usuario clásico realice la busqueda de algún anime, se le presente la información mas adecuada y especifica|
 |Entradas|"Title","Author","Gender","Chapters","Premiere date","Characters","Status","Duration","Language","Summary","Target audience"|
 |Salidas| "Contenido actualizado"|
 
-|FR006|Remove content|
+|FR005|Remove content|
 |---|---|
 |Prioridad|High|
 |Descripción| Mediante una cuenta de tipo administrador se le permite al usuario borrar parte de la información guardada en la base de datos|
