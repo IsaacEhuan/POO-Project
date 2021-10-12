@@ -5,7 +5,7 @@ This document shows what are the different characteristics that were considered 
 * Project objective definition: 2 points.
 * Work process writing: 2 points.
 * User stories writing: 2 points.
-* Use case writing: 2 points.
+* User case writing: 2 points.
 * Development of use case diagram: 3 points.
 * Development of class diagram: 3 points.
 * Redacción de bitácora: 2 points.
