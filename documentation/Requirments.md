@@ -8,37 +8,37 @@ Admin user: Person who has acces to modify the database.
 
 ## System requirments:
 
-**Funcionales**
+**Functional requirments**
 
-|RF001|Búsqueda de animes|
+|FR001|Búsqueda de animes|
 |---|---|
 |Prioridad:|High|
 |Descripción|El sistema permite al usuario la búsqueda de animes, ya sea por el nombre del anime, género y por el personaje |
 |Entradas| Busqueda categoría // Cadena caracteres |  
 |Salidas| Resultado de la búsqueda.|
 
-|RF002|Reconocimiento de Usuarios|
+|FR002|Reconocimiento de Usuarios|
 |---|---|
 |Prioridad|High|
 |Descripción| El sistema permite crear una cuenta e ingresar mediante ella desde cualquier dispositivo en la red mediante un nombre de usuario y una contraseña elegidos, dicha cuenta servirá para que el usuario haga uso de la API|
 |Entradas| "Usuario", "Correo/Facebook", "Password"|
 |Salidas| "ID de Usuario"|
 
-|RF004|Add content|
+|FR004|Add content|
 |---|---|
 |Prioridad|High|
 |Descripción| Mediante una cuenta de tipo administrador se le permite al usuario agregar a la base de datos nuevos animes con todas las características que este posea|
 |Entradas|"Title","Author","Gender","Chapters","Premiere date","Characters","Status","Duration","Language","Summary","Target audience"|
 |Salidas| "Contenido actualizado"|
 
-|RF005|Update content|
+|FR005|Update content|
 |---|---|
 |Prioridad|High|
 |Descripción| Mediante una cuenta de tipo administrador se le permite al usuario actualizar la base de datos, podiendo este cambiar u agregar información a ciertos animes para que cuando un usuario clásico realice la busqueda de algún anime, se le presente la información mas adecuada y especifica|
 |Entradas|"Title","Author","Gender","Chapters","Premiere date","Characters","Status","Duration","Language","Summary","Target audience"|
 |Salidas| "Contenido actualizado"|
 
-|RF006|Remove content|
+|FR006|Remove content|
 |---|---|
 |Prioridad|High|
 |Descripción| Mediante una cuenta de tipo administrador se le permite al usuario borrar parte de la información guardada en la base de datos|
@@ -46,20 +46,20 @@ Admin user: Person who has acces to modify the database.
 |Salidas| "Contenido actualizado"|
 
 
-**No Funcionales**
+**Non-functional requirments**
 
-|RNF001|Tiempo de respuesta|
+|NFR001|Tiempo de respuesta|
 |---|---|
 |Descripción|El sistema deberá realizar la busqueda solicitada por el usuario en # segundo o menos|
 
-|RNF002|Historial de busqueda|
+|NFR002|Historial de busqueda|
 |---|---|
 |Descripción|El sistema guardará las busquedas realizadas por el usuario mientras este permanezca logueado|
 
-|RNF003|Security|
+|NFR003|Security|
 |---|---|
 |Descripción|El sistema deberá ser capaz de resistir ataques de denegación del servicio que intenten saturar los servidores que utiliza el software para su funcionamiento|
 
-|RNF004|Acceso al sistema|
+|NFR004|Acceso al sistema|
 |---|---|
 |Descripción|El sistema debe permitir al usuario acceder con éxito a la plataforma en un 99% de las veces en las que intente ingresar al servicio|
