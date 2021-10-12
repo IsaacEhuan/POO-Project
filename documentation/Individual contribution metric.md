@@ -3,10 +3,10 @@ This document shows what are the different characteristics that were considered 
 * Repository creation: 1 point.
 * Requirements definition: 2 points.
 * Project objective definition: 2 points.
-* Work process redaction: 2 points.
-* Redacción de historias de usuario: 2 points.
-* Redacción de casos de uso: 2 points.
-* Elaboración de diagrama de casos de uso: 3 points.
+* Work process writing: 2 points.
+* User stories writing: 2 points.
+* Use case writing: 2 points.
+* Development of use case diagram: 3 points.
 * Elaboración de diagrama de clases: 3 points.
 * Redacción de bitácora: 2 points.
 * Calendarización: 2 points.
