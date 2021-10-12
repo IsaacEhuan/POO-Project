@@ -13,53 +13,53 @@ Admin user: Person who has acces to modify the database.
 |FR001|Anime search|
 |---|---|
 |Priority:|High|
-|Description|El sistema permite al usuario la búsqueda de animes, ya sea por el nombre del anime, género y por el personaje |
-|Entradas| Busqueda categoría // Cadena caracteres |  
-|Salidas| Resultado de la búsqueda.|
+|Description|The system allows users to make anime searches, either by the name, gender or main character of the anime.|
+|Input| Search by category // siring. of characters |  
+|Output| Search result.|
 
-|FR002|Reconocimiento de Usuarios|
+|FR002|User recognition|
 |---|---|
 |Priority|High|
-|Description| El sistema permite crear una cuenta e ingresar mediante ella desde cualquier dispositivo en la red mediante un nombre de usuario y una contraseña elegidos, dicha cuenta servirá para que el usuario haga uso de la API|
-|Entradas| "Usuario", "Correo/Facebook", "Password"|
-|Salidas| "ID de Usuario"|
+|Description| The system allows creating an account and logs in through that from any device on the network through the chosen username and password, that account will serve to the interaction between the user and the system.|
+|Input| "User", "Mail/Facebook", "Password".|
+|Output| "ID de Usuario".|
 
 |FR003|Add content|
 |---|---|
 |Priority|High|
-|Description| Mediante una cuenta de tipo administrador se le permite al usuario agregar a la base de datos nuevos animes con todas las características que este posea|
-|Entradas|"Title","Author","Gender","Chapters","Premiere date","Characters","Status","Duration","Language","Summary","Target audience"|
-|Salidas| "Contenido actualizado"|
+|Description| Through an administrator type account, the user is allowed to add new animes to the database with all the characteristics that the anime has.|
+|Input|"Title","Author","Gender","Chapters","Premiere date","Characters","Status","Duration","Language","Summary","Target audience".|
+|Output| "Updated content.".|
 
 |FR004|Update content|
 |---|---|
 |Priority|High|
-|Description| Mediante una cuenta de tipo administrador se le permite al usuario actualizar la base de datos, podiendo este cambiar u agregar información a ciertos animes para que cuando un usuario clásico realice la busqueda de algún anime, se le presente la información mas adecuada y especifica|
-|Entradas|"Title","Author","Gender","Chapters","Premiere date","Characters","Status","Duration","Language","Summary","Target audience"|
-|Salidas| "Contenido actualizado"|
+|Description| Through an administrator-type account, the user is allowed to update the database, being able to change or add information to certain animes so that, when a classic user searches for an anime, it is presented the most appropriate and specific information for the user.|
+|Input|"Title","Author","Gender","Chapters","Premiere date","Characters","Status","Duration","Language","Summary","Target audience".|
+|Output| "Updated content.".|
 
 |FR005|Remove content|
 |---|---|
 |Priority|High|
-|Description| Mediante una cuenta de tipo administrador se le permite al usuario borrar parte de la información guardada en la base de datos|
-|Entradas|"Title","Author","Gender","Chapters","Premiere date","Characters","Status","Duration","Language","Summary","Target audience"|
-|Salidas| "Contenido actualizado"|
+|Description| Through an administrator-type account, the user is allowed to delete part of the information stored in the database.|
+|Input|"Title","Author","Gender","Chapters","Premiere date","Characters","Status","Duration","Language","Summary","Target audience".|
+|Output| "Updated content.".|
 
 
 **Non-functional requirments**
 
-|NFR001|Tiempo de respuesta|
+|NFR001|Response time|
 |---|---|
-|Description|El sistema deberá realizar la busqueda solicitada por el usuario en # segundo o menos|
+|Description|The system must perform the search requested by the user in n seconds or less.|
 
-|NFR002|Historial de busqueda|
+|NFR002|Search history|
 |---|---|
-|Description|El sistema guardará las busquedas realizadas por el usuario mientras este permanezca logueado|
+|Description|The system will save the searches made by the user while the user remains logged in.|
 
 |NFR003|Security|
 |---|---|
-|Description|El sistema deberá ser capaz de resistir ataques de denegación del servicio que intenten saturar los servidores que utiliza el software para su funcionamiento|
+|Description|The system must be able to resist denial of service attacks that try to saturate the servers used by the software for its operation.|
 
-|NFR004|Acceso al sistema|
+|NFR004|Access to the system|
 |---|---|
-|Description|El sistema debe permitir al usuario acceder con éxito a la plataforma en un 99% de las veces en las que intente ingresar al servicio|
+|Description|The system must allow the users to successfully access the platform in 99% of the times that they try to enter to the service|
