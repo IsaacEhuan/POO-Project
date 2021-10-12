@@ -12,15 +12,15 @@
 |Precondition |Have an email account (gmail) or a Facebook account|
 |Description|The system allows the user to create an account, login and logout |
 |Steps |Action |
-|1 |El usuario selecciona con que desea realizar el registro, ya sea Facebook o una cuenta de correo(gmail) |
-|2 | Una vez registrado, el usuario debe iniciar sesión con la opción seleccionada|
-|3 | Una vez finalizado el usuario puede cerrar la sesión de su cuenta |
-|Postcondition |El usuario tendra acceso al sistema |
+|1 |The user selects what he wants to register with, either Facebook or an email account (gmail) |
+|2 | Once registered, the user must login with the selected option|
+|3 | Once they have finished what they had to do, the user can logout of their account |
+|Postcondition |The user will have access to the system |
 |Exceptions- Step |Action |
- |2 |Si el usuario ingresa datos incorrectos de su cuenta o intenta iniciar sesión con una cuenta no registrada |
- ||E.1 El sistema informa de la problemática que impide iniciar sesión | 
- ||E.2 Se borran los datos ingresados y se le pide al usuario digitar de nuevo sus datos  |
-|Comments |El número máximo de intentos para iniciar sesión es de 5, despues del quinto intento el sistema no le permite al usuario ingresar sus datos|
+ |2 |If the user enters incorrect account details or tries to login with an unregistered account |
+ ||E.1 The system reports the problem that prevents you from login | 
+ ||E.2 The data entered is deleted and the user is asked to retype his data  |
+|Comments |The maximum number of attempts to login is 5, after the fifth attempt the system does not allow the user to enter their data if it is not until 1 hour later|
 
 |CU02 |1.0 |
 |---|---|
