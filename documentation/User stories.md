@@ -44,5 +44,5 @@ As: An administrator user I want to: Modify an existing anime To: Be able to off
 As: An administrator user I want to: Delete information from some anime To: Be able to eliminate erroneous data and to be able to enter new data
 
 ##### Conditions
-- El sistema debe permitir al usuario administrador eliminar la información de algun anime 
+- The system must allow the administrator user to delete the information of some anime 
 - The system must allow the administrator user to save the changes made
