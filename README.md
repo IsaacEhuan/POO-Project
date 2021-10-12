@@ -11,3 +11,4 @@ Create a system which helps people to identify an anime according to certain cha
 
 # Targeted Public:
 This project is aimed at the general public, however, anime fans are expected to interact the most with the system.
+
