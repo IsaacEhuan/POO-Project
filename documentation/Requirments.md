@@ -1,14 +1,14 @@
-# Requirments.
-## User requirments:
+# Requirements.
+## User requirements:
 User: Person who requests the data from the system or database.
 - The user will be able to search for his anime. 
-## Admin user requirments:
+## Admin user requirements:
 Admin user: Person who has acces to modify the database.
 - Admin user will be able to add update or delete any existing anime record.
 
 ## System requirments:
 
-**Functional requirments**
+**Functional requirements**
 
 |FR001|Anime search|
 |---|---|
@@ -46,7 +46,7 @@ Admin user: Person who has acces to modify the database.
 |Output| "Updated content."|
 
 
-**Non-functional requirments**
+**Non-functional requirements**
 
 |NFR001|Response time|
 |---|---|
