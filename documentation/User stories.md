@@ -1,6 +1,6 @@
 # User stories.
 
-**US01**-*Access and exit the system.*
+**US01**- *Access and exit the system.*
 
 As: A client/user I Want to: Have access to the system To: Be able to search / consult about an anime of my interest.
 
@@ -11,7 +11,7 @@ As: A client/user I Want to: Have access to the system To: Be able to search / c
 - The system must allow the user to log in at any time.
 - The system must allow the user to log out at any time. 
 
-**US02**-*Information search.*
+**US02**- *Information search.*
 
 As: A user I want to:Search an anime of my preference To: Be able to use it or simply learn more about it.
 
