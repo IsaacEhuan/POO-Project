@@ -26,3 +26,4 @@ Team members have a meting via Microsoft Teams to verify the advance of every si
 
 ## 11/10/21-12/10/21
 Translation of the documents and recording of the video to reach the final version of the first deliverie.
+
