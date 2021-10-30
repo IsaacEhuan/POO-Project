@@ -1,4 +1,4 @@
-# Binacle.
+# Binnacle.
 
 ## 17/09/21 17:00-18:00
 Team members make a call via WhatsApp to give and express ideas for for a possible project. During the call the memmbers decide to work on this project. After the call each member look up for more information of APIs and related things.
