@@ -7,7 +7,7 @@ import javax.persistence.GenerationType;
 import javax.persistence.Id;
 
 @Entity
-public class animes {
+public class Animes {
     @Id
     @GeneratedValue(strategy = GenerationType.AUTO)
     private Long id;
@@ -42,91 +42,63 @@ public class animes {
     private String summary;
      // target audience
 
+    
 
-
-    //constructor 
-    public animes(String animeid, String title, String autor, int chapters, String summary) {
+    public Animes(String animeid, String title, String autor, int chapters, String summary) {
         this.animeid = animeid;
         this.title = title;
         this.autor = autor;
         this.chapters = chapters;
         this.summary = summary;
     }
-
-
 
     public Long getId() {
         return id;
     }
 
-
-
     public void setId(Long id) {
         this.id = id;
     }
-
-
 
     public String getAnimeid() {
         return animeid;
     }
 
-
-
     public void setAnimeid(String animeid) {
         this.animeid = animeid;
     }
-
-
 
     public String getTitle() {
         return title;
     }
 
-
-
     public void setTitle(String title) {
         this.title = title;
     }
-
-
 
     public String getAutor() {
         return autor;
     }
 
-
-
     public void setAutor(String autor) {
         this.autor = autor;
     }
-
-
 
     public int getChapters() {
         return chapters;
     }
 
-
-
     public void setChapters(int chapters) {
         this.chapters = chapters;
     }
-
-
 
     public String getSummary() {
         return summary;
     }
 
-
-
     public void setSummary(String summary) {
         this.summary = summary;
     }
-
-
-
     @Override
     public int hashCode() {
         final int prime = 31;
@@ -134,8 +106,6 @@ public class animes {
         result = prime * result + ((id == null) ? 0 : id.hashCode());
         return result;
     }
-
-
 
     @Override
     public boolean equals(Object obj) {
@@ -145,7 +115,7 @@ public class animes {
             return false;
         if (getClass() != obj.getClass())
             return false;
-        animes other = (animes) obj;
+        Animes other = (Animes) obj;
         if (id == null) {
             if (other.id != null)
                 return false;
@@ -153,19 +123,11 @@ public class animes {
             return false;
         return true;
     }
-
-
-
-    @Override
-    public String toString() {
-        return "animes [animeid=" + animeid + ", autor=" + autor + ", chapters=" + chapters + ", id=" + id
-                + ", summary=" + summary + ", title=" + title + "]";
-    }
-
     
-   
 
 
 
+    //constructor 
+    
     
 }
