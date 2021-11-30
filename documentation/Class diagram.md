@@ -8,4 +8,4 @@ In the following ilustration it is specified the considerated classes that will 
 In the next ilustration it is specified the changes that the team made based on the situation and conditions of the problem.
 
 ### Modifications:
-![Class diagram2 1](https://user-images.githubusercontent.com/86177245/143980938-d65cf3e9-1559-4457-89c4-b1bc0a6162e3.png)
+![Class diagram2 1](https://user-images.githubusercontent.com/86177245/143984957-d2314e37-69cc-4a5e-9e62-cd61156b1362.png)
