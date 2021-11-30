@@ -31,7 +31,7 @@ This document shows what are the different characteristics that were considered 
 * Realization and analysis of individual contribution metrics: 1 point.
 
 ## Individual Contribution Metric Table:
-|Team member |1st score |% |2nd score |% |
+|Team member |1st score |% |2nd score |Accumulated points |
 |--- |--- |--- |--- |--- |
 |Ehuan Avila Isaac Mauricio | 13 | 23.21 | 4 | 20 |
 |Fernández Mena Ariel Jesús | 15 | 26.78 | 4 | 20 |
