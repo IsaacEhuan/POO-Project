@@ -42,7 +42,7 @@ Admin user: Person who has acces to modify the database.
 |---|---|
 |Priority|High|
 |Description| Through an administrator-type account, the user is allowed to delete part of the information stored in the database|
-|Input|"ID","Title","Author","Gender","Chapters","Premiere date","Status","Number of chapters","Language"|
+|Input|"ID","Title","Author","Gender","Chapters","Premiere date","Status","Number of chapters","Language"| 
 |Output| "Updated content."|
 
 
