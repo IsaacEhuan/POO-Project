@@ -1,5 +1,5 @@
 # Activities Calendar.
-[![Calendar.png](https://i.postimg.cc/8CDzXnx4/Calendar.png)](https://postimg.cc/ZW7mCjbv)
+[![Calendar2.png](https://i.postimg.cc/02QhMn08/Calendar2.png)](https://postimg.cc/SjBgHWP5)
 
 In the activities calendar, we work with sprints of 11 to 20 days. These sprints have a planning and review, although the calendar dates may be subject to change because of holidays or date changes.
 As for the delivery dates, these are divided into two partial deliveries and a final delivery.
