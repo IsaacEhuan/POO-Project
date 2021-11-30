@@ -28,21 +28,21 @@ Admin user: Person who has acces to modify the database.
 |---|---|
 |Priority|High|
 |Description| Through an administrator type account, the user is allowed to add new animes to the database with all the characteristics that the anime has|
-|Input|"Title","Author","Gender","Chapters","Premiere date","Characters","Status","Duration","Language","Summary","Target audience"|
+|Input|"ID","Title","Author","Gender","Chapters","Premiere date","Status","Number of chapters","Language"|
 |Output| "Updated content."|
 
 |FR004|Update content|
 |---|---|
 |Priority|High|
 |Description| Through an administrator-type account, the user is allowed to update the database, being able to change or add information to certain animes so that, when a classic user searches for an anime, it is presented the most appropriate and specific information for the user|
-|Input|"Title","Author","Gender","Chapters","Premiere date","Characters","Status","Duration","Language","Summary","Target audience"|
+|Input|"ID","Title","Author","Gender","Chapters","Premiere date","Status","Number of chapters","Language"|
 |Output| "Updated content."|
 
 |FR005|Remove content|
 |---|---|
 |Priority|High|
 |Description| Through an administrator-type account, the user is allowed to delete part of the information stored in the database|
-|Input|"Title","Author","Gender","Chapters","Premiere date","Characters","Status","Duration","Language","Summary","Target audience"|
+|Input|"ID","Title","Author","Gender","Chapters","Premiere date","Status","Number of chapters","Language"|
 |Output| "Updated content."|
 
 
