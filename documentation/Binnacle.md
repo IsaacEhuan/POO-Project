@@ -28,3 +28,4 @@ Team members have a meting via Microsoft Teams to verify the advance of every si
 Translation of the documents and recording of the video to reach the final version of the first deliverie.
 
 ## 30/10/21
+Team members have a meting via Microsoft Teams to keep working on the project and to discuss some conflicts related to the project.
