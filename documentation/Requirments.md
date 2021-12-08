@@ -12,7 +12,7 @@ User: Person who requests the data from the system or database.
 |---|---|
 |Priority:|High|
 |Description|The system allows users to search anime by name.|
-|Input| Search by name // siring of characters |  
+|Input| Search by name // string of characters |  
 |Output| Search result|
 
 |FR002|User recognition|
