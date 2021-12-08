@@ -30,10 +30,34 @@ This document shows what are the different characteristics that were considered 
 * Translation: 2 points.
 * Realization and analysis of individual contribution metrics: 1 point.
 
+
+### Criteria Final Delivery:
+* Organization and division of activities: 1 point.
+* API Research: 2 points.
+* Investigation of bootstrap: 2 points
+* Investigation of Springboot security: 2 points
+* Investigation of SpringWeb: 2 points
+* Implementation of Heroku: 2 points
+* Implementation of bootstrap: 2 points
+* Implementation of Springboot security: 2 points
+* Implementation of SpringWeb: 2 points
+* Implementation of Heroku: 2 points
+* Implementation of html and css: 2 points
+* Adjusting the Requirements definition: 2 points.
+* Adjusting the Class diagram: 2 points.
+* Adjusting the Use case: 2 points.
+* Adjusting the Use case diagram: 2 points.
+* Adjusting the User stories: 2 points.
+* Adjusting the scheduling: 1 points.
+* Work process writing: 2 points.
+* Orthographic corrections: 1 point.
+* Translation: 2 points.
+* Realization and analysis of individual contribution metrics: 1 point.
+
 ## Individual Contribution Metric Table:
-|Team member |1st score |% |2nd score |Overall percentage |
-|--- |--- |--- |--- |--- |
-|Ehuan Avila Isaac Mauricio | 13 | 23.21 | 4 | 20% |
-|Fernández Mena Ariel Jesús | 15 | 26.78 | 4 | 20% |
-|Gamboa Campos Wilberth Manuel | 13 | 23.21 | 7 | 35% |
-|Gómez Gómez Horacio Jahir | 15 | 26.78 | 5 | 25% |
+|Team member |1st score |% |2nd score |% |3st score |% |Overall percentage |
+|--- |--- |--- |--- |--- |--- |--- |--- |
+|Ehuan Avila Isaac Mauricio | 13 | 23.21 | 4 | 20% | 12 | 28.94 | 24.05 |
+|Fernández Mena Ariel Jesús | 15 | 26.78 | 4 | 20% | 10 | 26.31 | 24.36 |
+|Gamboa Campos Wilberth Manuel | 13 | 23.21 | 7 | 35% | 8 | 21.05 | 26.42 |
+|Gómez Gómez Horacio Jahir | 15 | 26.78 | 5 | 25% | 9 | 23.68| 25.15 |
