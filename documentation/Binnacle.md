@@ -40,12 +40,13 @@ The team members meet in discord to show the progress they already have of the p
 The team members have a meeting in discord to plan the third sprint and clarify doubts about the changes that will take place in the project
 
 ## 27/11/21
+The team members meet in Microsoft Teams to close the third sprint and to show everything that is ready for the second installment
 
-## 01/12/21
+## 28/11/21
+The team members meet in discord to plan an extra sprint, where it is planned to end the project, they also talk about the changes in the requirements
 
-## 03/12/21
-
-## 05/12/21
+## 29/11/21
+The team members meet in discord to make changes to the project documentation and to upload all the progress of the project to the repository
 
 ## 06/12/21
 
