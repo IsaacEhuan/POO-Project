@@ -8,4 +8,4 @@ In the following ilustration it is specified the considerated classes that will 
 In the next ilustration it is specified the changes that the team made based on the situation and conditions of the problem.
 
 ### Modifications:
-![Class diagram drawio2 2](https://user-images.githubusercontent.com/86177245/143985951-94180fb5-433b-4f86-94c5-ee83f6148715.png)
+![Class diagram drawio2 2]([![Class-diagram-drawio.png](https://i.postimg.cc/bv6HnCxX/Class-diagram-drawio.png)](https://postimg.cc/3yvv5Zf9))
