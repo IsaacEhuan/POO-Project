@@ -15,3 +15,6 @@ The purpose of the second delivery will be to show the corrections of the first 
 
 ##### Final delivery:
 The final delivery, as its name indicates, is the delivery where the project documentation will be corrected and the delivery of the system already in operation with the pre-established requirements in its entirety. 
+
+##### New final delivery proposal:
+In the final delivery, the updated documentation is shown, with all the changes that the project had throughout its development, the API code is delivered with the new requirements, since not all those established at the beginning could be met and it is delivered API already up and running.
