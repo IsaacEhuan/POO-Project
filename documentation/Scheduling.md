@@ -1,8 +1,7 @@
 # Activities Calendar.
 [![Calendar2.png](https://i.postimg.cc/02QhMn08/Calendar2.png)](https://postimg.cc/SjBgHWP5)
 
-In the activities calendar, we work with sprints of 11 to 20 days. These sprints have a planning and review, although the calendar dates may be subject to change because of holidays or date changes.
-As for the delivery dates, these are divided into two partial deliveries and a final delivery.
+In the activities calendar, we work with sprints of 11 to 20 days. These sprints have a planning and review, although the calendar dates may be subject to change because of holidays or date changes. As for the delivery dates, these are divided into two partial deliveries and a final delivery.
 
 ##### Partial delivery 1:
 The first deliverie will be focused in show an advance of the project documentation, its functional and non-functional requirments, its use case, its class diagram, etc.
