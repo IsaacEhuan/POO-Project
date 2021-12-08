@@ -2,9 +2,7 @@
 ## User requirements:
 User: Person who requests the data from the system or database.
 - The user will be able to search for his anime. 
-## Admin user requirements:
-Admin user: Person who has acces to modify the database.
-- Admin user will be able to add update or delete any existing anime record.
+- The user will be able to add update or delete any existing anime record.
 
 ## System requirments:
 
