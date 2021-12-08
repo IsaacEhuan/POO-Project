@@ -49,5 +49,7 @@ The team members meet in discord to plan an extra sprint, where it is planned to
 The team members meet in discord to make changes to the project documentation and to upload all the progress of the project to the repository
 
 ## 06/12/21
+The team members meet in discord to finish with the extra sprint and teach all the requirements that were achieved and the changes that are planned to be made in the project documentation
 
 ## 07/12/21
+The team members meet in discord and make changes to the documentation, upload the complete project to the github repository and record the final video showing everything achieved in the project
