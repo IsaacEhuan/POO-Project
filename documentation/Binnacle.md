@@ -29,3 +29,24 @@ Translation of the documents and recording of the video to reach the final versi
 
 ## 30/10/21
 Team members have a meting via Microsoft Teams to keep working on the project and to discuss some conflicts related to the project.
+
+## 31/10/21
+Team members have a meeting Via Microsoft Teams to plan the second sprint so they can start work the next day
+
+## 19/11/21
+The team members meet in discord to show the progress they already have of the project and to finish with the second sprint
+
+## 20/11/21
+The team members have a meeting in discord to plan the third sprint and clarify doubts about the changes that will take place in the project
+
+## 27/11/21
+
+## 01/12/21
+
+## 03/12/21
+
+## 05/12/21
+
+## 06/12/21
+
+## 07/12/21
