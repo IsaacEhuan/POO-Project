@@ -13,7 +13,7 @@ Admin user: Person who has acces to modify the database.
 |FR001|Anime search|
 |---|---|
 |Priority:|High|
-|Description|The system allows users to make anime searches, either by the name, gender or main character of the anime|
+|Description|The system allows users to search anime by name.|
 |Input| Search by name // siring of characters |  
 |Output| Search result|
 
@@ -27,21 +27,21 @@ Admin user: Person who has acces to modify the database.
 |FR003|Add content|
 |---|---|
 |Priority|High|
-|Description| Through an administrator type account, the user is allowed to add new animes to the database with all the characteristics that the anime has|
+|Description| Through an account the user can add new animes to the database with all the features that anime has|
 |Input|"ID","Title","Chapters"|
 |Output| "Updated content."|
 
 |FR004|Update content|
 |---|---|
 |Priority|High|
-|Description| Through an administrator-type account, the user is allowed to update the database, being able to change or add information to certain animes so that, when a classic user searches for an anime, it is presented the most appropriate and specific information for the user|
+|Description| Through an account, the user is allowed to update the database, being able to change or add information to certain animes so that, when another user searches for an anime, they will be presented with the most appropriate and specific information for their search|
 |Input|"ID","Title","Chapters"|
 |Output| "Updated content."|
 
 |FR005|Remove content|
 |---|---|
 |Priority|High|
-|Description| Through an administrator-type account, the user is allowed to delete part of the information stored in the database|
+|Description| Through an account the user can delete part of the information stored in the database|
 |Input|"ID","Title","Chapters"| 
 |Output| "Updated content."|
 
