@@ -9,18 +9,17 @@
 |UC01 | 1.0 |
 |---|---|
 |Dependencies |-Register new users -Login -Logout. |
-|Precondition |Have an email account (gmail) or a Facebook account.|
+|Precondition |Have an email account.|
 |Description|The system allows the user to create an account, login and logout. |
 |Steps |Action |
-|1 |The user selects what he wants to register with, either Facebook or an email account (gmail). |
-|2 | Once registered, the user must login with the selected option.|
+|1 |The users selects what will be their password. |
+|2 | Once registered, the users can't chage their password.|
 |3 | Once they have finished what they had to do, the user can logout of their account. |
 |Postcondition |The user will have access to the system. |
 |Exceptions- Step |Action |
  |2 |If the user enters incorrect account details or tries to login with an unregistered account. |
  ||E.1 The system reports the problem that prevents you from login. | 
  ||E.2 The data entered is deleted and the user is asked to retype his data.  |
-|Comments |The maximum number of attempts to login is 5, after the fifth attempt the system does not allow the user to enter their data if it is not until 1 hour later.|
 
 |UC02 |1.0 |
 |---|---|
@@ -34,24 +33,23 @@
 |Postcondition |The user receives all the information about the anime he has searched for. |
 |Exceptions - Step |Action |
  |2 |If the user instead of adding a character string enters numeric data. |
- ||E.1 The system reports the problem that prevents the search. | 
- ||E.2 Search restarts. |
+ ||E.1 The system don't show the information. | 
+ ||E.2 The user can restarts the search. |
 |Comments |The maximum number of anime searches is unlimited, as long as the user wants to know everything about an anime, he can perform a search in the API. |
 
 |UC03 | 1.0 |
 |---|---|
 |Dependencies |Content update. |
-|Precondition |To have access to the functionality of being able to modify the information contained in the database, a previous login must have been made with an administrator account. |
-|Description |Through this functionality, the administrator can have the authorization to modify the database, that is, to create, to update or to delete one or more animes.|
+|Precondition |To have access to the functionality of being able to modify the information contained in the database, a previous login must have been made. |
+|Description |Through this functionality, the user can have the authorization to modify the database, that is, to create, to update or to delete one or more animes.|
 |Steps |Action |
-|1 |Enter thedatabase. |
-|2 | Choose the action to carry out, execute it and save the changes made. |
-|3 | Exit the database. |
+|1 |Enter to the system (web app). |
+|2 | Choose the action to carry out and execute it. |
+|3 | The user save the changes made. |
 |Postcondition |The database reflects the modifications made. |
 |Exceptions- Step |Action |
  |2 | If the changes made are not saved. |
  ||E.1 The system does not reflect the changes made and ignores everything that has been added, modified or removed from the database. | 
-|Comments | The administrator users are the only ones with the necessary permissions to update the information contained in the database. |
 
 
 ## Use case diagram
