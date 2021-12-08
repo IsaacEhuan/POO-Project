@@ -2,8 +2,8 @@
 # Work process.
 ## Methods and tools:
 
-### MySQL.
-MySQL is a relational database management system developed double license: General Public License / Commercial License by Oracle Corporation and is considered the most popular open source database in the world.
+### Heroku.
+Heroku is a cloud services platform (known as PaaS or Platform as a Service), whose popularity has grown in recent years due to its ease of use and versatility for different projects.
 This tool will help us to build and manage the database which will be connected to our API.
 
 ### Maven.
@@ -11,7 +11,7 @@ Maven is a Java project management and construction software tool created by Jas
 
 ### Springboot.
 Spring Boot is a light infrastructure that delete most of the work out of configuring Spring-based applications. The Spring Boot objactive is to provide a set of tools to quickly build Spring applications that are easy to configure.
-This tool will be connected with the Maven jars, which will facilitate some tasks at the time of the API creating and managment.
+This tool will be connected with the Maven jars, which will facilitate some tasks at the time of the API creating and managment. Similarly, dependencies such as SpringWeb were used.
 
 ### Hibernate.
 Hibernate is an object-relational mapping (ORM) tool for the Java platform that facilitates the mapping of attributes between a traditional relational database and the object model of an application, through declarative files (XML) or annotations in the beans of the entities that allow these relationships to be established.
@@ -32,6 +32,10 @@ In GitHub we will upload a large part of the project development, since, being a
 Microsoft Teams is a unified communication and collaboration platform that combines persistent workplace chat, video meetings, file storage (including file collaboration), and application integration.
 In this application we will be connecting for direct communication with the team, where we will agree on points of the organization about the tasks, requirements and other important activities.
 For the meetings, a channel has been created for the team, since it is more efficient and has more options than creating a simple group chat. Meetings happen at least 2 times at week, whether we meet with our teacher or not.
+
+### Discord
+Discord is a social platform designed to allow you to create chat groups for different games and purposes. You can think of it as something similar to Skype or TeamSpeak, although including the functions of other more professional tools.
+With this tool, quick meetings were also held for more specific discussions.
 
 ### One Drive.
 OneDrive is a platform that allows you to store files, documents, personal material, etc., in a single space, you can also share them with other people and have access to them on any device.
