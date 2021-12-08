@@ -31,25 +31,25 @@ Translation of the documents and recording of the video to reach the final versi
 Team members have a meting via Microsoft Teams to keep working on the project and to discuss some conflicts related to the project.
 
 ## 31/10/21
-Team members have a meeting Via Microsoft Teams to plan the second sprint so they can start work the next day
+Team members have a meeting Via Microsoft Teams to plan the second sprint so they can start work the next day.
 
 ## 19/11/21
-The team members meet in discord to show the progress they already have of the project and to finish with the second sprint
+The team members meet in discord to show the progress they already have of the project and to finish with the second sprint.
 
 ## 20/11/21
-The team members have a meeting in discord to plan the third sprint and clarify doubts about the changes that will take place in the project
+The team members have a meeting in discord to plan the third sprint and clarify doubts about the changes that will take place in the project.
 
 ## 27/11/21
-The team members meet in Microsoft Teams to close the third sprint and to show everything that is ready for the second installment
+The team members meet in Microsoft Teams to close the third sprint and to show everything that is ready for the second installment.
 
 ## 28/11/21
-The team members meet in discord to plan an extra sprint, where it is planned to end the project, they also talk about the changes in the requirements
+The team members meet in discord to plan an extra sprint, where it is planned to end the project, they also talk about the changes in the requirements.
 
 ## 29/11/21
-The team members meet in discord to make changes to the project documentation and to upload all the progress of the project to the repository
+The team members meet in discord to make changes to the project documentation and to upload all the progress of the project to the repository.
 
 ## 06/12/21
-The team members meet in discord to finish with the extra sprint and teach all the requirements that were achieved and the changes that are planned to be made in the project documentation
+The team members meet in discord to finish with the extra sprint and teach all the requirements that were achieved and the changes that are planned to be made in the project documentation.
 
 ## 07/12/21
-The team members meet in discord and make changes to the documentation, upload the complete project to the github repository and record the final video showing everything achieved in the project
+The team members meet in discord and make changes to the documentation, upload the complete project to the github repository and record the final video showing everything achieved in the project.
